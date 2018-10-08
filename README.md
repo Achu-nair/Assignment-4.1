@@ -1,7 +1,5 @@
 # Assignment-4.1
 assignments for Acadgild Data Science with R course
-![](assignment 4.1.PNG)
-
 df1 = data.frame(CustId = c(1:6), Product = c(rep("TV", 3), rep("Radio", 3)))
 df2 = data.frame(CustId = c(2, 4, 6), State = c(rep("Texas", 2), rep("NYC", 1)))
 df1 #left table
@@ -26,3 +24,6 @@ For the above given data frames and tables perform the following operations:
 
         #outerjoin-Return all rows from both tables, join records from the left which have matching keys in the right table.
         merge(x = df1,y = df2, by = "CustId",all = TRUE)
+       
+       
+![](assignment%204.1.PNG)
