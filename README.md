@@ -1,5 +1,6 @@
 # Assignment-4.1
 assignments for Acadgild Data Science with R course
+![](assignment 4.1.PNG)
 
 df1 = data.frame(CustId = c(1:6), Product = c(rep("TV", 3), rep("Radio", 3)))
 df2 = data.frame(CustId = c(2, 4, 6), State = c(rep("Texas", 2), rep("NYC", 1)))
