@@ -11,3 +11,16 @@ table.
 • Return all rows from the right table, and any rows with matching keys from the left
 table.
 
+code:
+
+![](assignment_4_1.PNG)
+
+solution:
+
+![](assignment_4_1_sol1.PNG)
+
+![](assignment_4_1_sol2.PNG)
+
+![](assignment_4_1_sol3.PNG)
+
+![](assignment_4_1_sol4.PNG)
